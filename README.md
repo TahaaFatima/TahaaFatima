@@ -35,8 +35,8 @@ Passionate about building scalable, high-performance web applications that solve
 
 ## 📊 GitHub Stats
 
-[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahafatima&show_icons=true&theme=radical)](https://github.com/tahafatima)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahafatima&layout=compact&theme=radical)](https://github.com/tahafatima)
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaaFatima&show_icons=true&theme=radical)](https://github.com/TahaaFatima)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahaaFatima&layout=compact&theme=radical)](https://github.com/TahaaFatima)
 
 ---
 
